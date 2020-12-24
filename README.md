@@ -51,3 +51,6 @@ npm test
 
 If you have any questions about the repo, open an issue or contact me directly at aslinurkeklikci@yahoo.com. You can find more of my work at [AslinurK](https://github.com/AslinurK/).
 
+<img width="1281" alt="Screen Shot 2020-12-23 at 10 46 41 PM" src="https://user-images.githubusercontent.com/59800707/103059103-25efe880-4572-11eb-97d8-4a6b03818a6c.png">
+
+
